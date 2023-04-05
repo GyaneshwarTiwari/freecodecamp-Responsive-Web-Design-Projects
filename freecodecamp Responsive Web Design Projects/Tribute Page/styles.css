@@ -1,0 +1,28 @@
+*{
+    padding: 8px 0;
+    color: #333;
+}
+header, #tribute-info h2{
+    text-align: center;
+}
+#container{
+    background-color: #dddddd;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+#img-div{
+    background: #fff;
+    text-align: center;
+    margin: 0 15px;
+}
+#tribute-info{
+    width: 40%;
+    margin: 0 auto;
+}
+.timeline{
+    width: 80%;
+    margin: 0 auto;
+}
