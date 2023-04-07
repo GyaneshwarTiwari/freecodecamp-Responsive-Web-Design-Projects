@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    margin: 0;
+    --width: 30vh;
+}
+#navbar{
+    padding: 10px;
+    width: var(--width);
+    height: 100%;
+    position: fixed;
+    border-right:3px solid #777;
+}
+.nav-link{
+    text-decoration: none;
+    color: #555;
+    font-size: 20px;
+}
+#navbar ul{
+    list-style: none;
+    padding: 0;
+}
+#navbar ul li{
+    padding: 10px;
+    border-bottom: 1px solid #555;
+}
+#main-doc{
+    padding: 20px;
+    padding-left: 50px;
+    position: absolute;
+    left: var(--width);
+}
+@media (max-width: 700px){
+    body{
+        --width: 0;
+    }
+    #navbar{
+        overflow: hidden;
+        height: 0;
+        border: none;
+    }
+    #main-doc{
+        padding: 20px;
+    }
+    #main-doc::before{
+        content: "Lorem Ipsum Documentation";
+        font-size: 28px;
+        font-weight: bold;
+    }
+}
