@@ -20,7 +20,7 @@ Each project has its own directory with an index.html file. To preview HTML file
 
 1. [Tribute Page](https://htmlpreview.github.io/?https://github.com/GyaneshwarTiwari/freecodecamp-Responsive-Web-Design-Projects/blob/main/freecodecamp%20Responsive%20Web%20Design%20Projects/Tribute%20Page/index.html)
 2. [Survey Form](https://htmlpreview.github.io/?https://github.com/GyaneshwarTiwari/freecodecamp-Responsive-Web-Design-Projects/blob/main/freecodecamp%20Responsive%20Web%20Design%20Projects/Survey%20Form/index.html)
-3. [Product Landing Page]()
+3. [Product Landing Page](https://htmlpreview.github.io/?https://github.com/GyaneshwarTiwari/freecodecamp-Responsive-Web-Design-Projects/blob/main/freecodecamp%20Responsive%20Web%20Design%20Projects/Product%20Landing%20Page/index.html)
 4. [Technical Documentation Page](https://htmlpreview.github.io/?https://github.com/GyaneshwarTiwari/freecodecamp-Responsive-Web-Design-Projects/blob/main/freecodecamp%20Responsive%20Web%20Design%20Projects/Technical%20Documentation%20Page/index.html)
 5. [Personal Portfolio Webpage]()
 
